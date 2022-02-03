@@ -20,6 +20,7 @@ This game is coded in C# programming language. Have fun! <br />
 - Move pieces by using ***arrow keys*** and place the piece by using ***ENTER key*** on keyboard. <br />
 - If you place the part in an inappropriate place, a warning appears saying *"Please choose another place for your piece!"*. <br />
 - There is a counter for number of pieces that are placed so far. <br />
+
 •	If the located element:  <br />
 -	fills a full row(s) (and/or) <br />
 -	fills a column(s) completely (and/or) <br />
