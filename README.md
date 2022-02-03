@@ -18,6 +18,8 @@ This game is coded in C# programming language. Have fun! <br />
 •	A new piece is generated randomly and displayed on the right of the board. <br />
 •	The user can place the game element in an empty part of the board without overlaying. Game elements cannot be rotated. Placement operation does not have a time limit. <br />
 - Move pieces by using ***arrow keys*** and place the piece by using ***ENTER key*** on keyboard. <br />
+- If you place the part in an inappropriate place, a warning appears saying *"Please choose another place for your piece!"*. <br />
+- There is a counter for number of pieces that are placed so far. <br />
 •	If the located element:  <br />
 -	fills a full row(s) (and/or) <br />
 -	fills a column(s) completely (and/or) <br />
