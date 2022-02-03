@@ -12,7 +12,6 @@ This game is coded in C# programming language. Have fun! <br />
 
 ![image](https://user-images.githubusercontent.com/73299618/152333967-f8a34b18-0cd3-404a-99bd-65eb82f8f72e.png)
 
-
 **Game Playing Rules
 
 •	The game starts with a 9*9 empty board. <br />
