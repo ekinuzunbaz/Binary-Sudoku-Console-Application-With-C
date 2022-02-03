@@ -23,6 +23,7 @@ This game is coded in C# programming language. Have fun! <br />
 -	fills a column(s) completely (and/or) <br />
 -	fully fills a 3*3 block(s), <br />
 the fully filled row(s)/column(s)/block(s) are treated as a binary number. The decimal equivalent of  binary numbers are calculated. <br />
+
 •	If the currently placed game element fills more than one row(s)/column(s)/block(s), the decimal equivalent of binary numbers are added and this sum is multiplied by the number completed parts (row(s)/column(s)/block(s)). This result is added to the score. <br />
 •	Completed parts are removed from the board. <br />
 
