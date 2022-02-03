@@ -2,6 +2,8 @@
 
 Me and my friend Mustafa Efe developed sudoku like game called Binary sudoku. <br />
 
+Thanks to my teammate for his contributions: https://github.com/w0rtis
+
 This game is coded in C# programming language. Have fun! <br />
 
 ## What is Binary Sudoku?
