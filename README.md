@@ -1,1 +1,1 @@
-# Binary-Sudoku-Console-Application-With-C#
+# Binary-Sudoku-Console-Game-With-C#
