@@ -1,6 +1,6 @@
 # Binary-Sudoku-Console-Game-With-C#
 
-Me and my friend Mustafa Efe developed sudoku like game called Binary sudoku <br />
+Me and my friend Mustafa Efe developed sudoku like game called Binary sudoku. <br />
 
 This game is coded in C# programming language. Have fun! <br />
 
@@ -17,13 +17,13 @@ This game is coded in C# programming language. Have fun! <br />
 •	The game starts with a 9*9 empty board. <br />
 •	A new piece is generated randomly and displayed on the right of the board. <br />
 •	The user can place the game element in an empty part of the board without overlaying. Game elements cannot be rotated. Placement operation does not have a time limit. <br />
-- Move pieces by using ***arrow keys*** and place the piece by using ***ENTER key*** on keyboard <br />
+- Move pieces by using ***arrow keys*** and place the piece by using ***ENTER key*** on keyboard. <br />
 •	If the located element:  <br />
 -	fills a full row(s) (and/or) <br />
 -	fills a column(s) completely (and/or) <br />
 -	fully fills a 3*3 block(s), <br />
 
-The fully filled row(s)/column(s)/block(s) are treated as a binary number. The decimal equivalent of  binary numbers are calculated. <br />
+the fully filled row(s)/column(s)/block(s) are treated as a binary number. The decimal equivalent of  binary numbers are calculated. <br />
 
 •	If the currently placed game element fills more than one row(s)/column(s)/block(s), the decimal equivalent of binary numbers are added and this sum is multiplied by the number completed parts (row(s)/column(s)/block(s)). This result is added to the score. <br />
 •	Completed parts are removed from the board. <br />
