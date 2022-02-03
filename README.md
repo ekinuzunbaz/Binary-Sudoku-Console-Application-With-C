@@ -12,7 +12,7 @@ This game is coded in C# programming language. Have fun! <br />
 
 ![image](https://user-images.githubusercontent.com/73299618/152333967-f8a34b18-0cd3-404a-99bd-65eb82f8f72e.png)
 
-**Game Playing Rules
+***Game Playing Rules***
 
 •	The game starts with a 9*9 empty board. <br />
 •	A new piece is generated randomly and displayed on the right of the board. <br />
@@ -27,6 +27,6 @@ The fully filled row(s)/column(s)/block(s) are treated as a binary number. The d
 •	If the currently placed game element fills more than one row(s)/column(s)/block(s), the decimal equivalent of binary numbers are added and this sum is multiplied by the number completed parts (row(s)/column(s)/block(s)). This result is added to the score. <br />
 •	Completed parts are removed from the board. <br />
 
-**Game Ending
+***Game Ending***
 
 If there is no suitable space left to place the new piece on the board, a notice appears saying "game is over".  <br />
