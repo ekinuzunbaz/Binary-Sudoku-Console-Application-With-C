@@ -32,4 +32,4 @@ the fully filled row(s)/column(s)/block(s) are treated as a binary number. The d
 
 ***Game Ending***
 
-If there is no suitable space left to place the new piece on the board, a notice appears saying "Game over!".  <br />
+If there is no suitable space left to place the new piece on the board, a notice appears saying *"Game over!"*.  <br />
